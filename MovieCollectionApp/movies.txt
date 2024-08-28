@@ -1,0 +1,39 @@
+The Matrix:Action,Sci-Fi:Keanu Reeves, Laurence Fishburne, Carrie-Anne Moss:1999:136:8.7:true
+Titanic:Drama,Romance:Leonardo DiCaprio, Kate Winslet, Billy Zane:1997:195:7.8:true
+Gladiator:Action,Adventure,Drama:Russell Crowe, Joaquin Phoenix, Connie Nielsen:2000:155:8.5:true
+The Godfather:Crime,Drama:Marlon Brando, Al Pacino, James Caan:1972:175:9.2:true
+Jurassic Park:Action,Adventure,Sci-Fi:Sam Neill, Laura Dern, Jeff Goldblum:1993:127:8.1:true
+Avatar:Action,Adventure,Fantasy:Sam Worthington, Zoe Saldana, Sigourney Weaver:2009:162:7.8:true
+Star Wars Episode IV - A New Hope:Action,Adventure,Fantasy:Mark Hamill, Harrison Ford, Carrie Fisher:1977:121:8.6:true
+The Lord of the Rings The Fellowship of the Ring:Adventure,Drama,Fantasy:Elijah Wood, Ian McKellen, Orlando Bloom:2001:178:8.8:true
+The Avengers:Action,Adventure,Sci-Fi:Robert Downey Jr., Chris Evans, Scarlett Johansson:2012:143:8.0:true
+Interstellar:Adventure,Drama,Sci-Fi:Matthew McConaughey, Anne Hathaway, Jessica Chastain:2014:169:8.6:true
+Mad Max Fury Road:Action,Adventure,Sci-Fi:Tom Hardy, Charlize Theron, Nicholas Hoult:2015:120:8.1:true
+The Lion King:Animation,Adventure,Drama:Donald Glover, Beyoncé, Chiwetel Ejiofor:2019:118:6.9:true
+Spider-Man Into the Spider-Verse:Animation,Action,Adventure:Shameik Moore, Jake Johnson, Hailee Steinfeld:2018:117:8.4:true
+Black Panther:Action,Adventure,Sci-Fi:Chadwick Boseman, Michael B. Jordan, Lupita Nyong'o:2018:134:7.3:true
+La La Land:Comedy,Drama,Music:Ryan Gosling, Emma Stone, Rosemarie DeWitt:2016:128:8.0:true
+The Social Network:Biography,Drama:Jesse Eisenberg, Andrew Garfield, Justin Timberlake:2010:120:7.7:true
+Fight Club:Drama:Brad Pitt, Edward Norton, Helena Bonham Carter:1999:139:8.8:true
+The Departed:Crime,Drama,Thriller:Leonardo DiCaprio, Matt Damon, Jack Nicholson:2006:151:8.5:true
+Inglourious Basterds:Adventure,Drama,War:Brad Pitt, Diane Kruger, Eli Roth:2009:153:8.3:true
+The Matrix:Action,Sci-Fi:Keanu Reeves, Laurence Fishburne, Carrie-Anne Moss:1999:136:8.7:true
+Pulp Fiction:Crime,Drama:John Travolta, Uma Thurman, Samuel L. Jackson:1994:154:8.9:true
+Titanic:Drama,Romance:Leonardo DiCaprio, Kate Winslet, Billy Zane:1997:195:7.8:true
+Gladiator:Action,Adventure,Drama:Russell Crowe, Joaquin Phoenix, Connie Nielsen:2000:155:8.5:true
+The Godfather:Crime,Drama:Marlon Brando, Al Pacino, James Caan:1972:175:9.2:true
+Jurassic Park:Action,Adventure,Sci-Fi:Sam Neill, Laura Dern, Jeff Goldblum:1993:127:8.1:true
+Avatar:Action,Adventure,Fantasy:Sam Worthington, Zoe Saldana, Sigourney Weaver:2009:162:7.8:true
+Star Wars Episode IV - A New Hope:Action,Adventure,Fantasy:Mark Hamill, Harrison Ford, Carrie Fisher:1977:121:8.6:true
+The Lord of the Rings The Fellowship of the Ring:Adventure,Drama,Fantasy:Elijah Wood, Ian McKellen, Orlando Bloom:2001:178:8.8:true
+The Avengers:Action,Adventure,Sci-Fi:Robert Downey Jr., Chris Evans, Scarlett Johansson:2012:143:8.0:true
+Interstellar:Adventure,Drama,Sci-Fi:Matthew McConaughey, Anne Hathaway, Jessica Chastain:2014:169:8.6:true
+Mad Max Fury Road:Action,Adventure,Sci-Fi:Tom Hardy, Charlize Theron, Nicholas Hoult:2015:120:8.1:true
+The Lion King:Animation,Adventure,Drama:Donald Glover, Beyoncé, Chiwetel Ejiofor:2019:118:6.9:true
+Spider-Man Into the Spider-Verse:Animation,Action,Adventure:Shameik Moore, Jake Johnson, Hailee Steinfeld:2018:117:8.4:true
+Black Panther:Action,Adventure,Sci-Fi:Chadwick Boseman, Michael B. Jordan, Lupita Nyong'o:2018:134:7.3:true
+La La Land:Comedy,Drama,Music:Ryan Gosling, Emma Stone, Rosemarie DeWitt:2016:128:8.0:true
+The Social Network:Biography,Drama:Jesse Eisenberg, Andrew Garfield, Justin Timberlake:2010:120:7.7:true
+Fight Club:Drama:Brad Pitt, Edward Norton, Helena Bonham Carter:1999:139:8.8:true
+The Departed:Crime,Drama,Thriller:Leonardo DiCaprio, Matt Damon, Jack Nicholson:2006:151:8.5:true
+Inglourious Basterds:Adventure,Drama,War:Brad Pitt, Diane Kruger, Eli Roth:2009:153:8.3:true
